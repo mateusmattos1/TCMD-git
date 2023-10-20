@@ -1,5 +1,7 @@
 # Meu Projeto Web
 
+Projeto de teste para estudo do GIT, da disciplina de TCMD do IFES.
+
 Bem-vindo ao Meu Projeto Web! Este é um projeto web incrível que faz [descreva brevemente o propósito ou objetivo do projeto].
 
 ## Visão Geral
